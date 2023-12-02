@@ -1,4 +1,4 @@
-Grilli - Amazing & Delicious Food
+suraj - Amazing & Delicious Food
 
 This is a Restaurant html template made by codewithsadee
 
@@ -22,7 +22,7 @@ booking@restaurant.com
 
 #---------- HEADER ----------#
 
-alt = Grilli - Home
+alt = suraj - Home
 
 aria-label = close menu
 <ion-icon name="close-outline" aria-hidden="true"></ion-icon>
